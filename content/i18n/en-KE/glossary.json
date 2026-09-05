@@ -1,0 +1,4051 @@
+{
+  "abomination": {
+    "word": "abomination",
+    "definition": "something considered extremely wrong or hateful, especially before God",
+    "variations": [
+      "abomination",
+      "abominations"
+    ],
+    "emoji": "⛔😠",
+    "id": "gl001"
+  },
+  "abstract": {
+    "word": "abstract",
+    "definition": "about ideas and thoughts rather than physical things",
+    "variations": [
+      "abstract",
+      "abstractly"
+    ],
+    "emoji": "💭🧩",
+    "id": "gl002"
+  },
+  "account": {
+    "word": "account",
+    "definition": "a written or spoken description of something that happened",
+    "variations": [
+      "account",
+      "accounts"
+    ],
+    "emoji": "📖📝",
+    "id": "gl003"
+  },
+  "accountability": {
+    "word": "accountability",
+    "definition": "the duty to explain and take responsibility for actions.",
+    "variations": [
+      "accountability",
+      "accountable"
+    ],
+    "emoji": "📋✅",
+    "id": "gl004"
+  },
+  "addiction": {
+    "word": "addiction",
+    "definition": "a strong need to keep using a substance or doing something, even when it causes harm.",
+    "variations": [
+      "addiction",
+      "addictions",
+      "addictive"
+    ],
+    "emoji": "🔒💊",
+    "id": "gl005"
+  },
+  "advisor": {
+    "word": "advisor",
+    "definition": "a person who gives advice",
+    "variations": [
+      "advisor",
+      "advisors",
+      "advise",
+      "advice"
+    ],
+    "emoji": "💬🧠",
+    "id": "gl006"
+  },
+  "afflicted": {
+    "word": "afflicted",
+    "definition": "caused pain, suffering, or trouble to someone.",
+    "variations": [
+      "afflict",
+      "afflicted",
+      "affliction"
+    ],
+    "emoji": "😣⚠️",
+    "id": "gl007"
+  },
+  "affliction": {
+    "word": "affliction",
+    "definition": "pain, suffering, or trouble",
+    "variations": [
+      "affliction",
+      "afflictions"
+    ],
+    "emoji": "😢💔",
+    "id": "gl008"
+  },
+  "alien": {
+    "word": "alien",
+    "definition": "a foreigner or a person living in a place that is not their home country",
+    "variations": [
+      "alien",
+      "aliens"
+    ],
+    "emoji": "🌍🧳",
+    "id": "gl009"
+  },
+  "alienation": {
+    "word": "alienation",
+    "definition": "a state of being separated or cut off from someone, especially from God or others.",
+    "variations": [
+      "alienation",
+      "alienate",
+      "alienated"
+    ],
+    "emoji": "🚶💔",
+    "id": "gl010"
+  },
+  "altar": {
+    "word": "altar",
+    "definition": "a special place for offering sacrifices or worshipping God",
+    "variations": [
+      "altar",
+      "altars"
+    ],
+    "emoji": "🪨🙏",
+    "id": "gl011"
+  },
+  "analogous": {
+    "word": "analogous",
+    "definition": "similar in some way so that it can be compared",
+    "variations": [
+      "analogous"
+    ],
+    "emoji": "🔁🧩",
+    "id": "gl012"
+  },
+  "ancestor": {
+    "word": "ancestor",
+    "definition": "a person in your family who lived long ago",
+    "variations": [
+      "ancestor",
+      "ancestors"
+    ],
+    "emoji": "👪🕰️",
+    "id": "gl013"
+  },
+  "ancestors": {
+    "word": "ancestors",
+    "definition": "family members who lived long ago before you were born",
+    "variations": [
+      "ancestor",
+      "ancestors"
+    ],
+    "emoji": "🌳🕰️",
+    "id": "gl014"
+  },
+  "ancestry": {
+    "word": "ancestry",
+    "definition": "family history or line of people from whom someone comes.",
+    "variations": [
+      "ancestry",
+      "ancestor",
+      "ancestors"
+    ],
+    "emoji": "🌳👪",
+    "id": "gl015"
+  },
+  "angels": {
+    "word": "angels",
+    "definition": "heavenly messengers or servants of God",
+    "variations": [
+      "angel",
+      "angels"
+    ],
+    "emoji": "😇🕊️",
+    "id": "gl016"
+  },
+  "apportioning": {
+    "word": "apportioning",
+    "definition": "the act of sharing or dividing something fairly among people or groups",
+    "variations": [
+      "apportion",
+      "apportioned",
+      "apportioning",
+      "apportions"
+    ],
+    "emoji": "➗⚖️",
+    "id": "gl017"
+  },
+  "ark": {
+    "word": "ark",
+    "definition": "a large boat built by Noah to save his family and animals from the flood.",
+    "variations": [
+      "ark",
+      "arks"
+    ],
+    "emoji": "🛶🌧️",
+    "id": "gl018"
+  },
+  "ascension": {
+    "word": "ascension",
+    "definition": "the going up of Jesus to heaven",
+    "variations": [
+      "ascension"
+    ],
+    "emoji": "⬆️☁️",
+    "id": "gl019"
+  },
+  "assistance": {
+    "word": "assistance",
+    "definition": "help given to someone",
+    "variations": [
+      "assistance",
+      "assist",
+      "assisting",
+      "assisted"
+    ],
+    "emoji": "🤝🆘",
+    "id": "gl020"
+  },
+  "assure": {
+    "word": "assure",
+    "definition": "to tell someone something in a way that makes them feel certain or calm",
+    "variations": [
+      "assure",
+      "assured",
+      "assures",
+      "assuring"
+    ],
+    "emoji": "🗣️😊",
+    "id": "gl021"
+  },
+  "attributes": {
+    "word": "attributes",
+    "definition": "qualities or features that belong to someone or something",
+    "variations": [
+      "attribute",
+      "attributes"
+    ],
+    "emoji": "⭐📝",
+    "id": "gl022"
+  },
+  "authority": {
+    "word": "authority",
+    "definition": "the power or right to give orders and make decisions",
+    "variations": [
+      "authority",
+      "authorities"
+    ],
+    "emoji": "👑📜",
+    "id": "gl023"
+  },
+  "authorship": {
+    "word": "authorship",
+    "definition": "the act or fact of writing a book or being its writer",
+    "variations": [
+      "authorship",
+      "author",
+      "authors"
+    ],
+    "emoji": "✍️📘",
+    "id": "gl024"
+  },
+  "baker": {
+    "word": "baker",
+    "definition": "a person who makes bread, cakes, and other baked foods",
+    "variations": [
+      "baker",
+      "bakers"
+    ],
+    "emoji": "🍞🧁",
+    "id": "gl025"
+  },
+  "baptism": {
+    "word": "baptism",
+    "definition": "a Christian ceremony using water as a sign of faith and new life in God",
+    "variations": [
+      "baptism",
+      "baptisms",
+      "baptise",
+      "baptised",
+      "baptising"
+    ],
+    "emoji": "💧✝️",
+    "id": "gl026"
+  },
+  "barren": {
+    "word": "barren",
+    "definition": "unable to have children",
+    "variations": [
+      "barren"
+    ],
+    "emoji": "😔👶",
+    "id": "gl027"
+  },
+  "beloved": {
+    "word": "beloved",
+    "definition": "greatly loved and very dear",
+    "variations": [
+      "beloved"
+    ],
+    "emoji": "❤️🤗",
+    "id": "gl028"
+  },
+  "bereaving": {
+    "word": "bereaving",
+    "definition": "causing someone to lose a loved one through death or separation",
+    "variations": [
+      "bereave",
+      "bereaving",
+      "bereaved",
+      "bereaves"
+    ],
+    "emoji": "😢💔",
+    "id": "gl029"
+  },
+  "Bible": {
+    "word": "Bible",
+    "definition": "the holy book of Christians, made up of many books in the Old and New Testaments",
+    "variations": [
+      "Bibles",
+      "biblical"
+    ],
+    "emoji": "📖✝️",
+    "id": "gl030"
+  },
+  "biblical": {
+    "word": "biblical",
+    "definition": "related to the Bible",
+    "variations": [
+      "Bible",
+      "biblically"
+    ],
+    "emoji": "📖✝️",
+    "id": "gl031"
+  },
+  "birthright": {
+    "word": "birthright",
+    "definition": "a special right or honour given to the first-born child in a family",
+    "variations": [
+      "birthright",
+      "birthrights",
+      "birth-right",
+      "birth-rights"
+    ],
+    "emoji": "👑📜",
+    "id": "gl032"
+  },
+  "blameless": {
+    "word": "blameless",
+    "definition": "without guilt; doing what is right",
+    "variations": [
+      "blameless"
+    ],
+    "emoji": "✅🙏",
+    "id": "gl033"
+  },
+  "blessed": {
+    "word": "blessed",
+    "definition": "given God’s favour, protection, or good things",
+    "variations": [
+      "bless",
+      "blessed",
+      "blessing",
+      "blessings"
+    ],
+    "emoji": "🙏✨",
+    "id": "gl034"
+  },
+  "blossom": {
+    "word": "blossom",
+    "definition": "a flower that grows on a tree or plant",
+    "variations": [
+      "blossom",
+      "blossoms"
+    ],
+    "emoji": "🌸🌼",
+    "id": "gl035"
+  },
+  "branch": {
+    "word": "branch",
+    "definition": "a part of a tree or plant that grows from the main stem",
+    "variations": [
+      "branch",
+      "branches"
+    ],
+    "emoji": "🌿🌳",
+    "id": "gl036"
+  },
+  "broadcasting": {
+    "word": "broadcasting",
+    "definition": "sending programmes or information by radio or television.",
+    "variations": [
+      "broadcast",
+      "broadcasting",
+      "broadcasts"
+    ],
+    "emoji": "📻📺",
+    "id": "gl037"
+  },
+  "burnt offering": {
+    "word": "burnt offering",
+    "definition": "a sacrifice that is completely burned as an offering to God",
+    "variations": [
+      "burnt offering",
+      "burnt offerings"
+    ],
+    "emoji": "🔥🙏",
+    "id": "gl038"
+  },
+  "butler": {
+    "word": "butler",
+    "definition": "a servant in charge of drinks or food in a large house or palace",
+    "variations": [
+      "butler",
+      "butlers"
+    ],
+    "emoji": "🍷🏠",
+    "id": "gl039"
+  },
+  "canon": {
+    "word": "canon",
+    "definition": "the official list of books accepted as Holy Scripture",
+    "variations": [
+      "canon",
+      "canonical"
+    ],
+    "emoji": "📚✅",
+    "id": "gl040"
+  },
+  "capability": {
+    "word": "capability",
+    "definition": "the ability or skill to do something",
+    "variations": [
+      "capability",
+      "capabilities"
+    ],
+    "emoji": "💪🧠",
+    "id": "gl041"
+  },
+  "capacity": {
+    "word": "capacity",
+    "definition": "the ability to do something",
+    "variations": [
+      "capacity",
+      "capacities"
+    ],
+    "emoji": "🧠🔋",
+    "id": "gl042"
+  },
+  "captain": {
+    "word": "captain",
+    "definition": "a leader of a group of soldiers or a ship",
+    "variations": [
+      "captain",
+      "captains"
+    ],
+    "emoji": "🫡🎖️",
+    "id": "gl043"
+  },
+  "captivity": {
+    "word": "captivity",
+    "definition": "the state of being held as a prisoner or not being free",
+    "variations": [
+      "captivity",
+      "captive"
+    ],
+    "emoji": "⛓️🚪",
+    "id": "gl044"
+  },
+  "carcasses": {
+    "word": "carcasses",
+    "definition": "the dead bodies of animals",
+    "variations": [
+      "carcass",
+      "carcasses"
+    ],
+    "emoji": "🐐🦴",
+    "id": "gl045"
+  },
+  "census": {
+    "word": "census",
+    "definition": "an official counting of people",
+    "variations": [
+      "census"
+    ],
+    "emoji": "🔢👥",
+    "id": "gl046"
+  },
+  "chariot": {
+    "word": "chariot",
+    "definition": "an ancient vehicle with wheels, usually pulled by horses",
+    "variations": [
+      "chariot",
+      "chariots"
+    ],
+    "emoji": "🐎🛞",
+    "id": "gl047"
+  },
+  "charity": {
+    "word": "charity",
+    "definition": "kind and loving help given to others",
+    "variations": [
+      "charity",
+      "charities"
+    ],
+    "emoji": "❤️🤲",
+    "id": "gl048"
+  },
+  "cherubim": {
+    "word": "cherubim",
+    "definition": "heavenly beings or angels placed by God for a special purpose.",
+    "variations": [
+      "cherub",
+      "cherubim"
+    ],
+    "emoji": "👼✨",
+    "id": "gl049"
+  },
+  "childbirth": {
+    "word": "childbirth",
+    "definition": "the process of giving birth to a baby",
+    "variations": [
+      "childbirth"
+    ],
+    "emoji": "🤱👶",
+    "id": "gl050"
+  },
+  "childless": {
+    "word": "childless",
+    "definition": "having no children",
+    "variations": [
+      "childless"
+    ],
+    "emoji": "👶❌",
+    "id": "gl051"
+  },
+  "circumcised": {
+    "word": "circumcised",
+    "definition": "having the foreskin of the male organ cut off as a religious or cultural practice",
+    "variations": [
+      "circumcise",
+      "circumcised",
+      "circumcision",
+      "circumcising"
+    ],
+    "emoji": "✂️📜",
+    "id": "gl052"
+  },
+  "citizenship": {
+    "word": "citizenship",
+    "definition": "the state of being a member of a country, with rights and duties",
+    "variations": [
+      "citizenship",
+      "citizen",
+      "citizens"
+    ],
+    "emoji": "🪪🤝",
+    "id": "gl053"
+  },
+  "civics": {
+    "word": "civics",
+    "definition": "the study of the rights and duties of citizens in a country",
+    "variations": [
+      "civics",
+      "civic",
+      "civil"
+    ],
+    "emoji": "🏛️⚖️",
+    "id": "gl054"
+  },
+  "civil societies": {
+    "word": "civil societies",
+    "definition": "community groups and organisations that work for the interests of people.",
+    "variations": [
+      "civil society",
+      "civil societies"
+    ],
+    "emoji": "🏘️👥",
+    "id": "gl055"
+  },
+  "classification": {
+    "word": "classification",
+    "definition": "the act of arranging things into groups",
+    "variations": [
+      "classification",
+      "classify",
+      "classified"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl056"
+  },
+  "cluster": {
+    "word": "cluster",
+    "definition": "a group of similar things growing or held close together",
+    "variations": [
+      "cluster",
+      "clusters"
+    ],
+    "emoji": "🍇🔵",
+    "id": "gl057"
+  },
+  "co-operation": {
+    "word": "co-operation",
+    "definition": "working together to achieve a common goal.",
+    "variations": [
+      "co-operation",
+      "cooperate",
+      "co-operate",
+      "co-operative"
+    ],
+    "emoji": "🤝🛠️",
+    "id": "gl058"
+  },
+  "coffin": {
+    "word": "coffin",
+    "definition": "a box in which a dead body is buried",
+    "variations": [
+      "coffin",
+      "coffins"
+    ],
+    "emoji": "⚰️",
+    "id": "gl059"
+  },
+  "commandment": {
+    "word": "commandment",
+    "definition": "an order or rule given by God",
+    "variations": [
+      "commandments"
+    ],
+    "emoji": "📜☝️",
+    "id": "gl060"
+  },
+  "commitment": {
+    "word": "commitment",
+    "definition": "the decision to stay loyal and dedicated to someone or something",
+    "variations": [
+      "commitment",
+      "commitments",
+      "commit"
+    ],
+    "emoji": "🤝💍",
+    "id": "gl061"
+  },
+  "communication": {
+    "word": "communication",
+    "definition": "the sharing of information, ideas, or messages from one person or group to another.",
+    "variations": [
+      "communication",
+      "communicate",
+      "communicating"
+    ],
+    "emoji": "💬📡",
+    "id": "gl062"
+  },
+  "communion": {
+    "word": "communion",
+    "definition": "a close and peaceful relationship with God or with other people.",
+    "variations": [
+      "communion"
+    ],
+    "emoji": "🙏❤️",
+    "id": "gl063"
+  },
+  "companionship": {
+    "word": "companionship",
+    "definition": "a close friendship and shared life with someone",
+    "variations": [
+      "companionship"
+    ],
+    "emoji": "🤝😊",
+    "id": "gl064"
+  },
+  "conceived": {
+    "word": "conceived",
+    "definition": "became pregnant with a baby",
+    "variations": [
+      "conceive",
+      "conceived",
+      "conceives",
+      "conceiving"
+    ],
+    "emoji": "🤰👶",
+    "id": "gl065"
+  },
+  "concept": {
+    "word": "concept",
+    "definition": "an idea or understanding about something",
+    "variations": [
+      "concepts"
+    ],
+    "emoji": "🧠💭",
+    "id": "gl066"
+  },
+  "concubine": {
+    "word": "concubine",
+    "definition": "a woman in a relationship like marriage but without the full status of a wife",
+    "variations": [
+      "concubine",
+      "concubines"
+    ],
+    "emoji": "👩📜",
+    "id": "gl067"
+  },
+  "confirmation": {
+    "word": "confirmation",
+    "definition": "proof that something is true or has been agreed on",
+    "variations": [
+      "confirm",
+      "confirmed",
+      "confirmation",
+      "confirming"
+    ],
+    "emoji": "✅📜",
+    "id": "gl068"
+  },
+  "confusion": {
+    "word": "confusion",
+    "definition": "a state of not understanding clearly.",
+    "variations": [
+      "confusion",
+      "confuse",
+      "confused"
+    ],
+    "emoji": "😕🌀",
+    "id": "gl069"
+  },
+  "conquest": {
+    "word": "conquest",
+    "definition": "taking control of a place by force, especially in war",
+    "variations": [
+      "conquest",
+      "conquests",
+      "conquer",
+      "conquered",
+      "conquering"
+    ],
+    "emoji": "⚔️🏴",
+    "id": "gl070"
+  },
+  "conscience": {
+    "word": "conscience",
+    "definition": "the inner sense that helps a person know what is right or wrong",
+    "variations": [
+      "conscience",
+      "consciences"
+    ],
+    "emoji": "❤️⚖️",
+    "id": "gl071"
+  },
+  "consciousness": {
+    "word": "consciousness",
+    "definition": "the state of being aware of yourself and what is around you",
+    "variations": [
+      "consciousness",
+      "conscious"
+    ],
+    "emoji": "👀🧠",
+    "id": "gl072"
+  },
+  "consensus": {
+    "word": "consensus",
+    "definition": "general agreement among a group of people.",
+    "variations": [
+      "consensus"
+    ],
+    "emoji": "👍👥",
+    "id": "gl073"
+  },
+  "consent": {
+    "word": "consent",
+    "definition": "permission or agreement given freely",
+    "variations": [
+      "consent",
+      "consented",
+      "consenting"
+    ],
+    "emoji": "✅🗣️",
+    "id": "gl074"
+  },
+  "consequences": {
+    "word": "consequences",
+    "definition": "results or effects that follow an action or decision.",
+    "variations": [
+      "consequence",
+      "consequences"
+    ],
+    "emoji": "➡️📌",
+    "id": "gl075"
+  },
+  "contemporary": {
+    "word": "contemporary",
+    "definition": "belonging to the present time; modern",
+    "variations": [
+      "contemporary"
+    ],
+    "emoji": "🕒🌍",
+    "id": "gl076"
+  },
+  "contempt": {
+    "word": "contempt",
+    "definition": "a strong feeling that someone or something is not worthy of respect",
+    "variations": [
+      "contempt"
+    ],
+    "emoji": "😒🚫",
+    "id": "gl077"
+  },
+  "convey": {
+    "word": "convey",
+    "definition": "to communicate or make something known",
+    "variations": [
+      "convey",
+      "conveys",
+      "conveyed",
+      "conveying"
+    ],
+    "emoji": "🗣️📨",
+    "id": "gl078"
+  },
+  "corruption": {
+    "word": "corruption",
+    "definition": "dishonest or wrong use of power for personal gain",
+    "variations": [
+      "corruption",
+      "corrupt"
+    ],
+    "emoji": "⚠️💰",
+    "id": "gl079"
+  },
+  "covenant": {
+    "word": "covenant",
+    "definition": "a serious agreement or promise between God and people",
+    "variations": [
+      "covenant",
+      "covenants"
+    ],
+    "emoji": "🤝📜",
+    "id": "gl080"
+  },
+  "creation": {
+    "word": "creation",
+    "definition": "everything made by God, or the act of making it",
+    "variations": [
+      "create",
+      "created",
+      "creating",
+      "creations"
+    ],
+    "emoji": "🌍✨",
+    "id": "gl081"
+  },
+  "creation care": {
+    "word": "creation care",
+    "definition": "the duty of protecting and looking after the world God created",
+    "variations": [
+      "creation care"
+    ],
+    "emoji": "🌍🌿🤲",
+    "id": "gl082"
+  },
+  "cunning": {
+    "word": "cunning",
+    "definition": "clever in a tricky or dishonest way",
+    "variations": [
+      "cunning"
+    ],
+    "emoji": "🦊🤫",
+    "id": "gl083"
+  },
+  "curb": {
+    "word": "curb",
+    "definition": "to control or reduce something harmful",
+    "variations": [
+      "curb",
+      "curbed",
+      "curbing",
+      "curbs"
+    ],
+    "emoji": "🛑📉",
+    "id": "gl084"
+  },
+  "cursed": {
+    "word": "cursed",
+    "definition": "put under suffering, trouble, or divine judgment.",
+    "variations": [
+      "curse",
+      "cursed",
+      "curses",
+      "cursing"
+    ],
+    "emoji": "⚡😞",
+    "id": "gl085"
+  },
+  "deceived": {
+    "word": "deceived",
+    "definition": "made someone believe something false",
+    "variations": [
+      "deceive",
+      "deceived",
+      "deceives",
+      "deceiving"
+    ],
+    "emoji": "🎭⚠️",
+    "id": "gl086"
+  },
+  "degradation": {
+    "word": "degradation",
+    "definition": "damage or decline in quality or condition",
+    "variations": [
+      "degradation",
+      "degrade",
+      "degraded"
+    ],
+    "emoji": "⚠️🌫️",
+    "id": "gl087"
+  },
+  "dependence": {
+    "word": "dependence",
+    "definition": "a condition of needing something regularly and finding it hard to stop using it.",
+    "variations": [
+      "dependence",
+      "dependent"
+    ],
+    "emoji": "🔗💊",
+    "id": "gl088"
+  },
+  "deplete": {
+    "word": "deplete",
+    "definition": "to use up or reduce greatly",
+    "variations": [
+      "deplete",
+      "depletes",
+      "depleted",
+      "depleting"
+    ],
+    "emoji": "⬇️🌍",
+    "id": "gl089"
+  },
+  "depository": {
+    "word": "depository",
+    "definition": "a place where something valuable is stored",
+    "variations": [
+      "depository",
+      "depositories"
+    ],
+    "emoji": "🏦💎",
+    "id": "gl090"
+  },
+  "depressants": {
+    "word": "depressants",
+    "definition": "drugs that slow down the body or mind.",
+    "variations": [
+      "depressant",
+      "depressants"
+    ],
+    "emoji": "😴💊",
+    "id": "gl091"
+  },
+  "depression": {
+    "word": "depression",
+    "definition": "a serious feeling of deep sadness that lasts a long time",
+    "variations": [
+      "depression",
+      "depressed"
+    ],
+    "emoji": "😔🖤",
+    "id": "gl092"
+  },
+  "deprivation": {
+    "word": "deprivation",
+    "definition": "lack of something needed or important.",
+    "variations": [
+      "deprivation",
+      "deprive",
+      "deprived",
+      "depriving"
+    ],
+    "emoji": "🕳️😞",
+    "id": "gl093"
+  },
+  "descendants": {
+    "word": "descendants",
+    "definition": "the children, grandchildren, and later family members of a person",
+    "variations": [
+      "descendant",
+      "descendants"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🌳",
+    "id": "gl094"
+  },
+  "detrimental": {
+    "word": "detrimental",
+    "definition": "harmful or damaging.",
+    "variations": [
+      "detrimental"
+    ],
+    "emoji": "🚫💥",
+    "id": "gl095"
+  },
+  "devotion": {
+    "word": "devotion",
+    "definition": "strong love, loyalty, and commitment to God or to a cause.",
+    "variations": [
+      "devotion",
+      "devotions",
+      "devoted"
+    ],
+    "emoji": "❤️🙏",
+    "id": "gl096"
+  },
+  "dialect": {
+    "word": "dialect",
+    "definition": "a form of a language spoken by a particular group of people",
+    "variations": [
+      "dialect",
+      "dialects"
+    ],
+    "emoji": "🗣️🌐",
+    "id": "gl097"
+  },
+  "dignity": {
+    "word": "dignity",
+    "definition": "the worth and respect every person deserves",
+    "variations": [
+      "dignity"
+    ],
+    "emoji": "🫶⭐",
+    "id": "gl098"
+  },
+  "discern": {
+    "word": "discern",
+    "definition": "to understand or recognize something clearly, especially the difference between right and wrong.",
+    "variations": [
+      "discern",
+      "discerns",
+      "discerned",
+      "discerning"
+    ],
+    "emoji": "👀🧠",
+    "id": "gl099"
+  },
+  "discipleship": {
+    "word": "discipleship",
+    "definition": "the practice of following and learning from the teachings of Jesus",
+    "variations": [
+      "discipleship"
+    ],
+    "emoji": "✝️📖",
+    "id": "gl100"
+  },
+  "discreet": {
+    "word": "discreet",
+    "definition": "careful in what you say and do, and able to make wise choices",
+    "variations": [
+      "discreet"
+    ],
+    "emoji": "🤫🧠",
+    "id": "gl101"
+  },
+  "disharmony": {
+    "word": "disharmony",
+    "definition": "lack of peace, agreement, or balance.",
+    "variations": [
+      "disharmony"
+    ],
+    "emoji": "💥😟",
+    "id": "gl102"
+  },
+  "disobedience": {
+    "word": "disobedience",
+    "definition": "failure or refusal to do what one is told or commanded to do.",
+    "variations": [
+      "disobedience",
+      "disobey",
+      "disobeyed",
+      "disobeying",
+      "disobedient"
+    ],
+    "emoji": "🚫👂",
+    "id": "gl103"
+  },
+  "disobey": {
+    "word": "disobey",
+    "definition": "to refuse to do what one has been told or commanded to do",
+    "variations": [
+      "disobeyed",
+      "disobeys",
+      "disobedience"
+    ],
+    "emoji": "🚫🙅",
+    "id": "gl104"
+  },
+  "dispersed": {
+    "word": "dispersed",
+    "definition": "spread out in different directions.",
+    "variations": [
+      "disperse",
+      "dispersed",
+      "dispersion"
+    ],
+    "emoji": "↔️🌍",
+    "id": "gl105"
+  },
+  "disrupted": {
+    "word": "disrupted",
+    "definition": "stopped or disturbed the normal progress of something.",
+    "variations": [
+      "disrupt",
+      "disrupted",
+      "disruption"
+    ],
+    "emoji": "🛑⚡",
+    "id": "gl106"
+  },
+  "divergent": {
+    "word": "divergent",
+    "definition": "different and moving in separate directions, especially in ideas or opinions.",
+    "variations": [
+      "divergent"
+    ],
+    "emoji": "↗️↘️",
+    "id": "gl107"
+  },
+  "diverse": {
+    "word": "diverse",
+    "definition": "different from one another; varied.",
+    "variations": [
+      "diverse",
+      "diversity"
+    ],
+    "emoji": "🌍🧩",
+    "id": "gl108"
+  },
+  "divine": {
+    "word": "divine",
+    "definition": "coming from God or relating to God",
+    "variations": [
+      "divine"
+    ],
+    "emoji": "✨🕊️",
+    "id": "gl109"
+  },
+  "divorce": {
+    "word": "divorce",
+    "definition": "the legal ending of a marriage",
+    "variations": [
+      "divorce",
+      "divorces",
+      "divorced",
+      "divorcing"
+    ],
+    "emoji": "💔📄",
+    "id": "gl110"
+  },
+  "dove": {
+    "word": "dove",
+    "definition": "a bird often used as a symbol of peace.",
+    "variations": [
+      "dove",
+      "doves"
+    ],
+    "emoji": "🕊️",
+    "id": "gl111"
+  },
+  "dreamer": {
+    "word": "dreamer",
+    "definition": "a person who has dreams, especially important or special dreams",
+    "variations": [
+      "dreamer",
+      "dreamers"
+    ],
+    "emoji": "💭😴",
+    "id": "gl112"
+  },
+  "drug abuse": {
+    "word": "drug abuse",
+    "definition": "the wrong or harmful use of drugs, especially in excessive amounts or for the wrong purpose.",
+    "variations": [
+      "drug abuse"
+    ],
+    "emoji": "💊⚠️🚫",
+    "id": "gl113"
+  },
+  "drunk": {
+    "word": "drunk",
+    "definition": "affected by too much alcohol.",
+    "variations": [
+      "drunk",
+      "drunken",
+      "drunkenness"
+    ],
+    "emoji": "🍺😵",
+    "id": "gl114"
+  },
+  "ecological": {
+    "word": "ecological",
+    "definition": "relating to living things and their environment",
+    "variations": [
+      "ecological",
+      "ecology"
+    ],
+    "emoji": "🌿🐾",
+    "id": "gl115"
+  },
+  "ecology": {
+    "word": "ecology",
+    "definition": "the study of how living things relate with each other and with their environment",
+    "variations": [
+      "ecology",
+      "ecological"
+    ],
+    "emoji": "🌿🔬",
+    "id": "gl116"
+  },
+  "embalm": {
+    "word": "embalm",
+    "definition": "to treat a dead body so that it does not decay quickly",
+    "variations": [
+      "embalm",
+      "embalmed",
+      "embalming",
+      "embalms"
+    ],
+    "emoji": "⚰️🕯️",
+    "id": "gl117"
+  },
+  "embraced": {
+    "word": "embraced",
+    "definition": "held someone closely in one’s arms",
+    "variations": [
+      "embrace",
+      "embraced",
+      "embraces",
+      "embracing"
+    ],
+    "emoji": "🤗❤️",
+    "id": "gl118"
+  },
+  "enmity": {
+    "word": "enmity",
+    "definition": "deep hatred or hostility between people or groups.",
+    "variations": [
+      "enmity"
+    ],
+    "emoji": "😠⚔️",
+    "id": "gl119"
+  },
+  "enslaved": {
+    "word": "enslaved",
+    "definition": "forced to work for others without freedom.",
+    "variations": [
+      "enslaved",
+      "enslave",
+      "enslavement"
+    ],
+    "emoji": "⛓️😔",
+    "id": "gl120"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "everything around us, including living and non-living things",
+    "variations": [
+      "environment",
+      "environments",
+      "environmental"
+    ],
+    "emoji": "🌿🌍",
+    "id": "gl121"
+  },
+  "environmental conservation": {
+    "word": "environmental conservation",
+    "definition": "the protection and careful use of the environment",
+    "variations": [
+      "environmental conservation",
+      "conservation"
+    ],
+    "emoji": "🌳💚",
+    "id": "gl122"
+  },
+  "eternal": {
+    "word": "eternal",
+    "definition": "having no beginning or end",
+    "variations": [
+      "eternal",
+      "eternally"
+    ],
+    "emoji": "♾️✨",
+    "id": "gl123"
+  },
+  "ethanol": {
+    "word": "ethanol",
+    "definition": "the type of alcohol found in drinks like beer, wine, and liquor.",
+    "variations": [
+      "ethanol"
+    ],
+    "emoji": "🧪🍺",
+    "id": "gl124"
+  },
+  "evil": {
+    "word": "evil",
+    "definition": "very bad behaviour or actions that cause harm.",
+    "variations": [
+      "evil"
+    ],
+    "emoji": "😈⚫",
+    "id": "gl125"
+  },
+  "ex nihilo": {
+    "word": "ex nihilo",
+    "definition": "a Latin phrase meaning ‘out of nothing’",
+    "variations": [
+      "ex nihilo"
+    ],
+    "emoji": "✨🕳️",
+    "id": "gl126"
+  },
+  "exalted": {
+    "word": "exalted",
+    "definition": "raised to a higher position or honour",
+    "variations": [
+      "exalted",
+      "exalt",
+      "exalting",
+      "exalts"
+    ],
+    "emoji": "⬆️👑",
+    "id": "gl127"
+  },
+  "existence": {
+    "word": "existence",
+    "definition": "the state of being real or being present",
+    "variations": [
+      "existence",
+      "exist",
+      "existing"
+    ],
+    "emoji": "🌱✅",
+    "id": "gl128"
+  },
+  "expelled": {
+    "word": "expelled",
+    "definition": "forced to leave a place.",
+    "variations": [
+      "expel",
+      "expelled",
+      "expelling",
+      "expulsion"
+    ],
+    "emoji": "🚪➡️",
+    "id": "gl129"
+  },
+  "explicit": {
+    "word": "explicit",
+    "definition": "clear and direct, leaving no doubt",
+    "variations": [
+      "explicit",
+      "explicitly"
+    ],
+    "emoji": "🗣️✅",
+    "id": "gl130"
+  },
+  "exploitation": {
+    "word": "exploitation",
+    "definition": "unfair treatment of people for one’s own benefit.",
+    "variations": [
+      "exploitation",
+      "exploit",
+      "exploited",
+      "exploiting"
+    ],
+    "emoji": "💰⚠️",
+    "id": "gl131"
+  },
+  "expulsion": {
+    "word": "expulsion",
+    "definition": "the act of being forced to leave a place",
+    "variations": [
+      "expulsion",
+      "expulsions",
+      "expel",
+      "expelled"
+    ],
+    "emoji": "🚪❌",
+    "id": "gl132"
+  },
+  "faculty": {
+    "word": "faculty",
+    "definition": "a natural ability or power of the mind",
+    "variations": [
+      "faculty",
+      "faculties"
+    ],
+    "emoji": "🧠🔍",
+    "id": "gl133"
+  },
+  "faith": {
+    "word": "faith",
+    "definition": "strong belief and trust in God",
+    "variations": [
+      "faithful",
+      "faithfully",
+      "faithfulness"
+    ],
+    "emoji": "🙏❤️",
+    "id": "gl134"
+  },
+  "faithful": {
+    "word": "faithful",
+    "definition": "loyal, true, and dependable",
+    "variations": [
+      "faithful"
+    ],
+    "emoji": "🤝🙏",
+    "id": "gl135"
+  },
+  "faithfulness": {
+    "word": "faithfulness",
+    "definition": "being loyal, trustworthy, and true in duty or worship.",
+    "variations": [
+      "faithfulness",
+      "faithful",
+      "faithfully"
+    ],
+    "emoji": "🤝🙏",
+    "id": "gl136"
+  },
+  "famine": {
+    "word": "famine",
+    "definition": "a time when there is very little food because crops fail or food is scarce",
+    "variations": [
+      "famine",
+      "famines"
+    ],
+    "emoji": "🌾😟",
+    "id": "gl137"
+  },
+  "favour": {
+    "word": "favour",
+    "definition": "kindness, approval, or blessing shown to someone",
+    "variations": [
+      "favour",
+      "favoured"
+    ],
+    "emoji": "😊🙏",
+    "id": "gl138"
+  },
+  "fertile": {
+    "word": "fertile",
+    "definition": "able to produce plants or crops well",
+    "variations": [
+      "fertile",
+      "fertility"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl139"
+  },
+  "fidelity": {
+    "word": "fidelity",
+    "definition": "faithfulness and loyalty",
+    "variations": [
+      "fidelity"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl140"
+  },
+  "figuratively": {
+    "word": "figuratively",
+    "definition": "in a symbolic way, not in a direct or literal sense.",
+    "variations": [
+      "figuratively",
+      "figurative"
+    ],
+    "emoji": "🪧📖",
+    "id": "gl141"
+  },
+  "fled": {
+    "word": "fled",
+    "definition": "ran away quickly from danger or trouble",
+    "variations": [
+      "flee",
+      "fled",
+      "fleeing",
+      "flees"
+    ],
+    "emoji": "🏃💨",
+    "id": "gl142"
+  },
+  "flock": {
+    "word": "flock",
+    "definition": "a group of sheep, goats, or other birds or animals kept together",
+    "variations": [
+      "flock",
+      "flocks"
+    ],
+    "emoji": "🐑🐐",
+    "id": "gl143"
+  },
+  "flocks": {
+    "word": "flocks",
+    "definition": "groups of sheep, goats, or other farm animals kept together",
+    "variations": [
+      "flock",
+      "flocks"
+    ],
+    "emoji": "🐑🐐",
+    "id": "gl144"
+  },
+  "flood": {
+    "word": "flood",
+    "definition": "a very large amount of water covering land that is usually dry.",
+    "variations": [
+      "flood",
+      "floods",
+      "flooded",
+      "flooding"
+    ],
+    "emoji": "🌊🚢",
+    "id": "gl145"
+  },
+  "forbidden": {
+    "word": "forbidden",
+    "definition": "not allowed; something that has been prohibited.",
+    "variations": [
+      "forbidden",
+      "forbid",
+      "forbade",
+      "forbids"
+    ],
+    "emoji": "⛔🚫",
+    "id": "gl146"
+  },
+  "forced marriage": {
+    "word": "forced marriage",
+    "definition": "a marriage where one or both people are made to marry without freely agreeing",
+    "variations": [
+      "forced marriage",
+      "forced marriages"
+    ],
+    "emoji": "💍⛔",
+    "id": "gl147"
+  },
+  "forgiveness": {
+    "word": "forgiveness",
+    "definition": "the choice to stop being angry with someone for a wrong they did",
+    "variations": [
+      "forgiveness"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl148"
+  },
+  "foundation": {
+    "word": "foundation",
+    "definition": "the basic support or starting point of something",
+    "variations": [
+      "foundation",
+      "foundations"
+    ],
+    "emoji": "🧱🏗️",
+    "id": "gl149"
+  },
+  "foundational": {
+    "word": "foundational",
+    "definition": "very important because it forms the base of something",
+    "variations": [
+      "foundational",
+      "foundation"
+    ],
+    "emoji": "🧱📚",
+    "id": "gl150"
+  },
+  "free will": {
+    "word": "free will",
+    "definition": "the power to choose and make decisions for yourself",
+    "variations": [
+      "free will"
+    ],
+    "emoji": "🛤️🧠",
+    "id": "gl151"
+  },
+  "fruitful": {
+    "word": "fruitful",
+    "definition": "producing good results or many offspring",
+    "variations": [
+      "fruitfully",
+      "fruitfulness"
+    ],
+    "emoji": "🍇🌱",
+    "id": "gl152"
+  },
+  "fugitive": {
+    "word": "fugitive",
+    "definition": "a person who runs away or is forced to keep moving, often because of wrongdoing or danger.",
+    "variations": [
+      "fugitive",
+      "fugitives"
+    ],
+    "emoji": "🏃🌍",
+    "id": "gl153"
+  },
+  "fulfilled": {
+    "word": "fulfilled",
+    "definition": "happened as promised or expected",
+    "variations": [
+      "fulfil",
+      "fulfilled",
+      "fulfilling",
+      "fulfils",
+      "fulfillment"
+    ],
+    "emoji": "✅📜",
+    "id": "gl154"
+  },
+  "fulfillment": {
+    "word": "fulfillment",
+    "definition": "the event of something expected or promised happening",
+    "variations": [
+      "fulfillment",
+      "fulfilment"
+    ],
+    "emoji": "✅🌟",
+    "id": "gl155"
+  },
+  "fundamental": {
+    "word": "fundamental",
+    "definition": "very important and basic",
+    "variations": [
+      "fundamental",
+      "fundamentally"
+    ],
+    "emoji": "🧱⭐",
+    "id": "gl156"
+  },
+  "Garden of Eden": {
+    "word": "Garden of Eden",
+    "definition": "the special garden in Genesis where Adam and Eve first lived",
+    "variations": [
+      "Garden of Eden",
+      "Eden"
+    ],
+    "emoji": "🌳🌺🏞️",
+    "id": "gl157"
+  },
+  "garment": {
+    "word": "garment",
+    "definition": "a piece of clothing.",
+    "variations": [
+      "garment",
+      "garments"
+    ],
+    "emoji": "👕",
+    "id": "gl158"
+  },
+  "generation": {
+    "word": "generation",
+    "definition": "all the people born around the same time, or the children and grandchildren of a family",
+    "variations": [
+      "generation",
+      "generations"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🌱",
+    "id": "gl159"
+  },
+  "generous": {
+    "word": "generous",
+    "definition": "willing to give freely and kindly.",
+    "variations": [
+      "generous",
+      "generously",
+      "generosity"
+    ],
+    "emoji": "🎁😊",
+    "id": "gl160"
+  },
+  "Genesis": {
+    "word": "Genesis",
+    "definition": "the first book of the Bible; the word also means beginning or origin",
+    "variations": [
+      "Genesis"
+    ],
+    "emoji": "🌍📖",
+    "id": "gl161"
+  },
+  "geography": {
+    "word": "geography",
+    "definition": "the study of places, lands, and features of the earth",
+    "variations": [
+      "geography",
+      "geographical"
+    ],
+    "emoji": "🗺️🌍",
+    "id": "gl162"
+  },
+  "governor": {
+    "word": "governor",
+    "definition": "a person who rules or manages an area",
+    "variations": [
+      "governor",
+      "governors"
+    ],
+    "emoji": "🏛️👑",
+    "id": "gl163"
+  },
+  "grace": {
+    "word": "grace",
+    "definition": "God’s free love, mercy, and help given to people.",
+    "variations": [
+      "grace",
+      "gracious"
+    ],
+    "emoji": "✨🙏",
+    "id": "gl164"
+  },
+  "graceful": {
+    "word": "graceful",
+    "definition": "moving or looking beautiful and pleasing",
+    "variations": [
+      "graceful",
+      "gracefully"
+    ],
+    "emoji": "✨💃",
+    "id": "gl165"
+  },
+  "gratitude": {
+    "word": "gratitude",
+    "definition": "a feeling of thankfulness.",
+    "variations": [
+      "gratitude",
+      "grateful"
+    ],
+    "emoji": "🙏😊",
+    "id": "gl166"
+  },
+  "guilty": {
+    "word": "guilty",
+    "definition": "having done something wrong or feeling responsible for a wrong act.",
+    "variations": [
+      "guilty",
+      "guilt"
+    ],
+    "emoji": "😔⚖️",
+    "id": "gl167"
+  },
+  "hallucinogens": {
+    "word": "hallucinogens",
+    "definition": "drugs that make a person see or feel things that are not really there.",
+    "variations": [
+      "hallucinogen",
+      "hallucinogens"
+    ],
+    "emoji": "🌀💊",
+    "id": "gl168"
+  },
+  "harshly": {
+    "word": "harshly",
+    "definition": "in a very strict, cruel, or unkind way",
+    "variations": [
+      "harsh",
+      "harsher",
+      "harshest",
+      "harshly"
+    ],
+    "emoji": "😠⚠️",
+    "id": "gl169"
+  },
+  "hatred": {
+    "word": "hatred",
+    "definition": "a very strong feeling of dislike",
+    "variations": [
+      "hatred"
+    ],
+    "emoji": "😠💔",
+    "id": "gl170"
+  },
+  "Hebrew": {
+    "word": "Hebrew",
+    "definition": "the language of the ancient Israelites, used in much of the Old Testament",
+    "variations": [
+      "Hebrew",
+      "Hebrews"
+    ],
+    "emoji": "📜🗣️",
+    "id": "gl171"
+  },
+  "heifer": {
+    "word": "heifer",
+    "definition": "a young female cow",
+    "variations": [
+      "heifer",
+      "heifers"
+    ],
+    "emoji": "🐄",
+    "id": "gl172"
+  },
+  "heir": {
+    "word": "heir",
+    "definition": "a person who receives property, position, or responsibility after someone dies",
+    "variations": [
+      "heir",
+      "heirs"
+    ],
+    "emoji": "👑📜",
+    "id": "gl173"
+  },
+  "herds": {
+    "word": "herds",
+    "definition": "groups of large animals such as cattle kept together",
+    "variations": [
+      "herd",
+      "herds"
+    ],
+    "emoji": "🐄🌾",
+    "id": "gl174"
+  },
+  "herdsmen": {
+    "word": "herdsmen",
+    "definition": "people who take care of cattle or other animals.",
+    "variations": [
+      "herdsman",
+      "herdsmen"
+    ],
+    "emoji": "🐄👨‍🌾",
+    "id": "gl175"
+  },
+  "history": {
+    "word": "history",
+    "definition": "the study or record of past events",
+    "variations": [
+      "history",
+      "historical",
+      "historically"
+    ],
+    "emoji": "📜⏳",
+    "id": "gl176"
+  },
+  "holiness": {
+    "word": "holiness",
+    "definition": "the quality of being pure and set apart for God",
+    "variations": [
+      "holiness",
+      "holy"
+    ],
+    "emoji": "✨🙏",
+    "id": "gl177"
+  },
+  "holy": {
+    "word": "holy",
+    "definition": "set apart for God; pure and spiritually good.",
+    "variations": [
+      "holy",
+      "holiness"
+    ],
+    "emoji": "✨🙏",
+    "id": "gl178"
+  },
+  "homage": {
+    "word": "homage",
+    "definition": "special honour or respect shown to someone",
+    "variations": [
+      "homage"
+    ],
+    "emoji": "🙇👑",
+    "id": "gl179"
+  },
+  "honourable": {
+    "word": "honourable",
+    "definition": "deserving respect because it is good and right",
+    "variations": [
+      "honourable",
+      "honorably"
+    ],
+    "emoji": "🎖️🤝",
+    "id": "gl180"
+  },
+  "hospitality": {
+    "word": "hospitality",
+    "definition": "kindness in welcoming and caring for guests or strangers",
+    "variations": [
+      "hospitality",
+      "hospitable"
+    ],
+    "emoji": "🏠🤗",
+    "id": "gl181"
+  },
+  "household": {
+    "word": "household",
+    "definition": "all the people living together in one home",
+    "variations": [
+      "household",
+      "households"
+    ],
+    "emoji": "🏠👨‍👩‍👧‍👦",
+    "id": "gl182"
+  },
+  "idols": {
+    "word": "idols",
+    "definition": "objects or images worshipped as gods",
+    "variations": [
+      "idol",
+      "idols"
+    ],
+    "emoji": "🗿🚫",
+    "id": "gl183"
+  },
+  "image of God": {
+    "word": "image of God",
+    "definition": "the belief that human beings reflect God in special ways such as thinking, choosing, and relating",
+    "variations": [
+      "image of God"
+    ],
+    "emoji": "👤✨🙏",
+    "id": "gl184"
+  },
+  "impatience": {
+    "word": "impatience",
+    "definition": "the inability to wait calmly",
+    "variations": [
+      "impatience",
+      "impatient"
+    ],
+    "emoji": "⏳😣",
+    "id": "gl185"
+  },
+  "implication": {
+    "word": "implication",
+    "definition": "a possible effect or meaning of something.",
+    "variations": [
+      "implication",
+      "implications",
+      "imply"
+    ],
+    "emoji": "💭➡️",
+    "id": "gl186"
+  },
+  "implications": {
+    "word": "implications",
+    "definition": "possible effects or results of an action or decision",
+    "variations": [
+      "implication",
+      "implications"
+    ],
+    "emoji": "➡️💭",
+    "id": "gl187"
+  },
+  "implore": {
+    "word": "implore",
+    "definition": "to beg or ask in a serious and emotional way",
+    "variations": [
+      "implore",
+      "implored",
+      "implores",
+      "imploring"
+    ],
+    "emoji": "🙏😟",
+    "id": "gl188"
+  },
+  "imprisonment": {
+    "word": "imprisonment",
+    "definition": "the state of being kept in prison",
+    "variations": [
+      "imprisonment"
+    ],
+    "emoji": "⛓️🏛️",
+    "id": "gl189"
+  },
+  "infectious": {
+    "word": "infectious",
+    "definition": "able to spread disease from one person to another.",
+    "variations": [
+      "infectious"
+    ],
+    "emoji": "🦠🤒",
+    "id": "gl190"
+  },
+  "infinite": {
+    "word": "infinite",
+    "definition": "without limits or end",
+    "variations": [
+      "infinite",
+      "infinitely"
+    ],
+    "emoji": "♾️🌌",
+    "id": "gl191"
+  },
+  "ingested": {
+    "word": "ingested",
+    "definition": "taken into the body by swallowing.",
+    "variations": [
+      "ingest",
+      "ingested",
+      "ingesting"
+    ],
+    "emoji": "🥤⬇️",
+    "id": "gl192"
+  },
+  "inhabitants": {
+    "word": "inhabitants",
+    "definition": "people who live in a place",
+    "variations": [
+      "inhabitant",
+      "inhabitants"
+    ],
+    "emoji": "🏠👫",
+    "id": "gl193"
+  },
+  "innocence": {
+    "word": "innocence",
+    "definition": "the state of being free from guilt or wrong doing.",
+    "variations": [
+      "innocence",
+      "innocent"
+    ],
+    "emoji": "🤍🌱",
+    "id": "gl194"
+  },
+  "inspired": {
+    "word": "inspired",
+    "definition": "guided in a special way, especially by God or the Holy Spirit",
+    "variations": [
+      "inspired",
+      "inspire",
+      "inspiration"
+    ],
+    "emoji": "🕊️✨",
+    "id": "gl195"
+  },
+  "instrumental": {
+    "word": "instrumental",
+    "definition": "very important in helping something happen.",
+    "variations": [
+      "instrumental"
+    ],
+    "emoji": "🛠️⭐",
+    "id": "gl196"
+  },
+  "integration": {
+    "word": "integration",
+    "definition": "bringing people or parts together to form one united group",
+    "variations": [
+      "integration"
+    ],
+    "emoji": "🤝🧩",
+    "id": "gl197"
+  },
+  "integrity": {
+    "word": "integrity",
+    "definition": "the quality of being honest and morally upright.",
+    "variations": [
+      "integrity"
+    ],
+    "emoji": "🧍✅",
+    "id": "gl198"
+  },
+  "intellect": {
+    "word": "intellect",
+    "definition": "the ability to think, reason, and understand",
+    "variations": [
+      "intellect",
+      "intellects"
+    ],
+    "emoji": "🧠💡",
+    "id": "gl199"
+  },
+  "intellectual": {
+    "word": "intellectual",
+    "definition": "relating to thinking, learning, and understanding ideas",
+    "variations": [
+      "intellectual",
+      "intellectually",
+      "intellect"
+    ],
+    "emoji": "🧠📘",
+    "id": "gl200"
+  },
+  "intentions": {
+    "word": "intentions",
+    "definition": "plans or purposes behind what a person does.",
+    "variations": [
+      "intention",
+      "intentions"
+    ],
+    "emoji": "🧠🎯",
+    "id": "gl201"
+  },
+  "intercede": {
+    "word": "intercede",
+    "definition": "to speak or pray on behalf of another person",
+    "variations": [
+      "intercede",
+      "interceded",
+      "intercedes",
+      "interceding",
+      "intercession"
+    ],
+    "emoji": "🙏🗣️",
+    "id": "gl202"
+  },
+  "intergenerational": {
+    "word": "intergenerational",
+    "definition": "involving several generations.",
+    "variations": [
+      "intergenerational"
+    ],
+    "emoji": "👶👨👴",
+    "id": "gl203"
+  },
+  "interpret": {
+    "word": "interpret",
+    "definition": "to explain the meaning of something",
+    "variations": [
+      "interpret",
+      "interpreted",
+      "interprets",
+      "interpreting",
+      "interpretation"
+    ],
+    "emoji": "💡📘",
+    "id": "gl204"
+  },
+  "interpreting": {
+    "word": "interpreting",
+    "definition": "explaining the meaning of something so that it can be understood",
+    "variations": [
+      "interpret",
+      "interpreted",
+      "interpretation"
+    ],
+    "emoji": "💡🗣️",
+    "id": "gl205"
+  },
+  "interrelated": {
+    "word": "interrelated",
+    "definition": "connected to each other in some way",
+    "variations": [
+      "interrelated",
+      "interrelate",
+      "interrelation"
+    ],
+    "emoji": "🔗🌍",
+    "id": "gl206"
+  },
+  "intervention": {
+    "word": "intervention",
+    "definition": "an action taken to help change a difficult situation",
+    "variations": [
+      "intervention",
+      "interventions"
+    ],
+    "emoji": "🛠️🤲",
+    "id": "gl207"
+  },
+  "Israelites": {
+    "word": "Israelites",
+    "definition": "the people of Israel in the Bible",
+    "variations": [
+      "Israelite"
+    ],
+    "emoji": "👥📖",
+    "id": "gl208"
+  },
+  "jealous": {
+    "word": "jealous",
+    "definition": "feeling upset because someone else has what you want",
+    "variations": [
+      "jealous",
+      "jealousy"
+    ],
+    "emoji": "😒💚",
+    "id": "gl209"
+  },
+  "justice": {
+    "word": "justice",
+    "definition": "fairness and right treatment according to what is right.",
+    "variations": [
+      "justice",
+      "just"
+    ],
+    "emoji": "⚖️",
+    "id": "gl210"
+  },
+  "kinsmen": {
+    "word": "kinsmen",
+    "definition": "people who are related by family.",
+    "variations": [
+      "kinsman",
+      "kinsmen"
+    ],
+    "emoji": "👪🤝",
+    "id": "gl211"
+  },
+  "knowledge": {
+    "word": "knowledge",
+    "definition": "information, understanding, or skill gained through learning",
+    "variations": [
+      "knowledge"
+    ],
+    "emoji": "📘🧠",
+    "id": "gl212"
+  },
+  "ladder": {
+    "word": "ladder",
+    "definition": "a thing with steps used for climbing up or down",
+    "variations": [
+      "ladder",
+      "ladders"
+    ],
+    "emoji": "🪜☁️",
+    "id": "gl213"
+  },
+  "lamented": {
+    "word": "lamented",
+    "definition": "expressed deep sadness or grief",
+    "variations": [
+      "lament",
+      "lamented",
+      "lamenting",
+      "laments"
+    ],
+    "emoji": "😢🕯️",
+    "id": "gl214"
+  },
+  "lentils": {
+    "word": "lentils",
+    "definition": "small flat seeds that are cooked and eaten as food",
+    "variations": [
+      "lentil",
+      "lentils"
+    ],
+    "emoji": "🫘🥣",
+    "id": "gl215"
+  },
+  "liberation": {
+    "word": "liberation",
+    "definition": "the act of setting someone free",
+    "variations": [
+      "liberation",
+      "liberate",
+      "liberated"
+    ],
+    "emoji": "🕊️🔓",
+    "id": "gl216"
+  },
+  "lineage": {
+    "word": "lineage",
+    "definition": "the line of family members from ancestors to later generations",
+    "variations": [
+      "lineage",
+      "lineages"
+    ],
+    "emoji": "🌳👪",
+    "id": "gl217"
+  },
+  "linen": {
+    "word": "linen",
+    "definition": "a strong cloth made from the flax plant",
+    "variations": [
+      "linen"
+    ],
+    "emoji": "👕🧵",
+    "id": "gl218"
+  },
+  "loyalty": {
+    "word": "loyalty",
+    "definition": "faithfulness and strong support to someone or something",
+    "variations": [
+      "loyal",
+      "loyalty"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl219"
+  },
+  "manifestation": {
+    "word": "manifestation",
+    "definition": "a clear sign that shows something is real or present",
+    "variations": [
+      "manifest",
+      "manifestation",
+      "manifestations"
+    ],
+    "emoji": "👀✨",
+    "id": "gl220"
+  },
+  "marriage": {
+    "word": "marriage",
+    "definition": "the formal and lasting union of a husband and wife",
+    "variations": [
+      "marriage",
+      "marriages",
+      "marry",
+      "married"
+    ],
+    "emoji": "💍❤️",
+    "id": "gl221"
+  },
+  "mass media": {
+    "word": "mass media",
+    "definition": "ways of sending information to many people at once, such as radio, television, newspapers, and the internet.",
+    "variations": [
+      "mass media"
+    ],
+    "emoji": "📺📰🌐",
+    "id": "gl222"
+  },
+  "meditate": {
+    "word": "meditate",
+    "definition": "to think deeply and carefully about something, especially the word of God",
+    "variations": [
+      "meditates",
+      "meditated",
+      "meditating",
+      "meditation"
+    ],
+    "emoji": "🧘🙏",
+    "id": "gl223"
+  },
+  "merciful": {
+    "word": "merciful",
+    "definition": "showing kindness and forgiveness to someone who could be punished.",
+    "variations": [
+      "merciful",
+      "mercifully",
+      "mercy"
+    ],
+    "emoji": "💖🙏",
+    "id": "gl224"
+  },
+  "Mesopotamian": {
+    "word": "Mesopotamian",
+    "definition": "relating to the ancient region called Mesopotamia",
+    "variations": [
+      "Mesopotamian",
+      "Mesopotamia"
+    ],
+    "emoji": "🏺📜",
+    "id": "gl225"
+  },
+  "Messiah": {
+    "word": "Messiah",
+    "definition": "the chosen saviour promised by God; for Christians, this is Jesus Christ",
+    "variations": [
+      "Messiah",
+      "Messiahs"
+    ],
+    "emoji": "✝️✨",
+    "id": "gl226"
+  },
+  "migration": {
+    "word": "migration",
+    "definition": "movement from one place to another to live there",
+    "variations": [
+      "migration",
+      "migrations",
+      "migrate",
+      "migrated",
+      "migrating"
+    ],
+    "emoji": "🚶🗺️",
+    "id": "gl227"
+  },
+  "miserly": {
+    "word": "miserly",
+    "definition": "not willing to give or share; very stingy.",
+    "variations": [
+      "miserly"
+    ],
+    "emoji": "💰🙅",
+    "id": "gl228"
+  },
+  "mistreatment": {
+    "word": "mistreatment",
+    "definition": "unkind or unfair treatment of a person",
+    "variations": [
+      "mistreatment",
+      "mistreat"
+    ],
+    "emoji": "😞🚫",
+    "id": "gl229"
+  },
+  "mistress": {
+    "word": "mistress",
+    "definition": "a woman who has authority over a female servant in a household",
+    "variations": [
+      "mistress",
+      "mistresses"
+    ],
+    "emoji": "👩🏠",
+    "id": "gl230"
+  },
+  "monogamy": {
+    "word": "monogamy",
+    "definition": "marriage between one man and one woman, or one person having only one spouse at a time.",
+    "variations": [
+      "monogamy",
+      "monogamous"
+    ],
+    "emoji": "💍❤️",
+    "id": "gl231"
+  },
+  "moral": {
+    "word": "moral",
+    "definition": "connected with knowing right and wrong",
+    "variations": [
+      "moral",
+      "morally",
+      "morality"
+    ],
+    "emoji": "⚖️🧠",
+    "id": "gl232"
+  },
+  "mourn": {
+    "word": "mourn",
+    "definition": "to feel and show deep sadness after a death or great loss",
+    "variations": [
+      "mourn",
+      "mourned",
+      "mourning",
+      "mourns"
+    ],
+    "emoji": "😢🕯️",
+    "id": "gl233"
+  },
+  "multiply": {
+    "word": "multiply",
+    "definition": "to increase in number",
+    "variations": [
+      "multiplies",
+      "multiplied",
+      "multiplying"
+    ],
+    "emoji": "➕🌿",
+    "id": "gl234"
+  },
+  "multitude": {
+    "word": "multitude",
+    "definition": "a very large number of people or things",
+    "variations": [
+      "multitude",
+      "multitudes"
+    ],
+    "emoji": "👥🌍",
+    "id": "gl235"
+  },
+  "myrrh": {
+    "word": "myrrh",
+    "definition": "a sweet-smelling substance from a tree, used in trade and perfume long ago",
+    "variations": [
+      "myrrh"
+    ],
+    "emoji": "🌿🧴",
+    "id": "gl236"
+  },
+  "nakedness": {
+    "word": "nakedness",
+    "definition": "the state of having no clothes on; in the passage it also shows innocence or shame.",
+    "variations": [
+      "nakedness",
+      "naked"
+    ],
+    "emoji": "🧍😳",
+    "id": "gl237"
+  },
+  "narrate": {
+    "word": "narrate",
+    "definition": "to tell a story or describe events",
+    "variations": [
+      "narrate",
+      "narrated",
+      "narrates",
+      "narrating"
+    ],
+    "emoji": "🗣️📖",
+    "id": "gl238"
+  },
+  "narrative": {
+    "word": "narrative",
+    "definition": "a story or account of events",
+    "variations": [
+      "narrative",
+      "narratives"
+    ],
+    "emoji": "📖🗣️",
+    "id": "gl239"
+  },
+  "nurturing": {
+    "word": "nurturing",
+    "definition": "caring for and helping someone grow well",
+    "variations": [
+      "nurture",
+      "nurturing",
+      "nurtured"
+    ],
+    "emoji": "🍼🌱",
+    "id": "gl240"
+  },
+  "oath": {
+    "word": "oath",
+    "definition": "a strong and serious promise",
+    "variations": [
+      "oath",
+      "oaths"
+    ],
+    "emoji": "✋📜",
+    "id": "gl241"
+  },
+  "obedience": {
+    "word": "obedience",
+    "definition": "the act of doing what one is told or commanded to do",
+    "variations": [
+      "obey",
+      "obeyed",
+      "obeying",
+      "obedient"
+    ],
+    "emoji": "✅🙏",
+    "id": "gl242"
+  },
+  "occupy": {
+    "word": "occupy",
+    "definition": "to live in or take control of a place",
+    "variations": [
+      "occupy",
+      "occupied",
+      "occupies",
+      "occupying"
+    ],
+    "emoji": "🏞️📍",
+    "id": "gl243"
+  },
+  "offering": {
+    "word": "offering",
+    "definition": "something given to God as a sign of worship, love, or thanks.",
+    "variations": [
+      "offering",
+      "offerings",
+      "offer",
+      "offered",
+      "offering"
+    ],
+    "emoji": "🙏🎁",
+    "id": "gl244"
+  },
+  "officer": {
+    "word": "officer",
+    "definition": "a person with an important position in the army or government",
+    "variations": [
+      "officer",
+      "officers"
+    ],
+    "emoji": "🎖️👮",
+    "id": "gl245"
+  },
+  "official": {
+    "word": "official",
+    "definition": "a person who holds an important position in government or an organisation",
+    "variations": [
+      "official",
+      "officials"
+    ],
+    "emoji": "🏛️📋",
+    "id": "gl246"
+  },
+  "offspring": {
+    "word": "offspring",
+    "definition": "a person’s children or young ones",
+    "variations": [
+      "offspring"
+    ],
+    "emoji": "👶🌱",
+    "id": "gl247"
+  },
+  "omnipotent": {
+    "word": "omnipotent",
+    "definition": "all-powerful",
+    "variations": [
+      "omnipotent"
+    ],
+    "emoji": "💪👑",
+    "id": "gl248"
+  },
+  "omnipresent": {
+    "word": "omnipresent",
+    "definition": "present everywhere at the same time",
+    "variations": [
+      "omnipresent"
+    ],
+    "emoji": "🌍✨",
+    "id": "gl249"
+  },
+  "omniscient": {
+    "word": "omniscient",
+    "definition": "knowing everything",
+    "variations": [
+      "omniscient"
+    ],
+    "emoji": "🧠👁️",
+    "id": "gl250"
+  },
+  "opioids": {
+    "word": "opioids",
+    "definition": "strong pain-relieving drugs that can be addictive.",
+    "variations": [
+      "opioid",
+      "opioids"
+    ],
+    "emoji": "💊🩺",
+    "id": "gl251"
+  },
+  "origin": {
+    "word": "origin",
+    "definition": "the beginning or source of something",
+    "variations": [
+      "origins"
+    ],
+    "emoji": "🌱🔍",
+    "id": "gl252"
+  },
+  "outcry": {
+    "word": "outcry",
+    "definition": "a strong cry or protest because of suffering or wrong",
+    "variations": [
+      "outcry",
+      "outcries"
+    ],
+    "emoji": "📣😢",
+    "id": "gl253"
+  },
+  "overseer": {
+    "word": "overseer",
+    "definition": "a person who supervises the work of others",
+    "variations": [
+      "overseer",
+      "overseers"
+    ],
+    "emoji": "👀📋",
+    "id": "gl254"
+  },
+  "Paradise": {
+    "word": "Paradise",
+    "definition": "a place or state of perfect peace, beauty, and happiness.",
+    "variations": [
+      "Paradise"
+    ],
+    "emoji": "🌴🕊️",
+    "id": "gl255"
+  },
+  "pardoning": {
+    "word": "pardoning",
+    "definition": "forgiving someone for a wrong they did",
+    "variations": [
+      "pardon",
+      "pardoning",
+      "pardoned",
+      "pardons"
+    ],
+    "emoji": "🤝🕊️",
+    "id": "gl256"
+  },
+  "partition": {
+    "word": "partition",
+    "definition": "the act of dividing something into parts.",
+    "variations": [
+      "partition",
+      "partitions"
+    ],
+    "emoji": "✂️🗺️",
+    "id": "gl257"
+  },
+  "pasture": {
+    "word": "pasture",
+    "definition": "to feed animals on grass in a field, or a grassy place where animals feed",
+    "variations": [
+      "pasture",
+      "pastured",
+      "pasturing",
+      "pastures"
+    ],
+    "emoji": "🐄🌿",
+    "id": "gl258"
+  },
+  "patriarch": {
+    "word": "patriarch",
+    "definition": "an early father or leader of a family or nation in the Bible",
+    "variations": [
+      "patriarch",
+      "patriarchs"
+    ],
+    "emoji": "👴🏕️",
+    "id": "gl259"
+  },
+  "patriarchal": {
+    "word": "patriarchal",
+    "definition": "related to a system led by male heads of families or groups.",
+    "variations": [
+      "patriarchal"
+    ],
+    "emoji": "👴🏠",
+    "id": "gl260"
+  },
+  "patriarchs": {
+    "word": "patriarchs",
+    "definition": "male heads or founders of families or tribes in the Bible.",
+    "variations": [
+      "patriarch",
+      "patriarchs"
+    ],
+    "emoji": "👴📜",
+    "id": "gl261"
+  },
+  "Pentateuch": {
+    "word": "Pentateuch",
+    "definition": "the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy",
+    "variations": [
+      "Pentateuch"
+    ],
+    "emoji": "5️⃣📘",
+    "id": "gl262"
+  },
+  "persuade": {
+    "word": "persuade",
+    "definition": "to make someone agree to do something by talking to them",
+    "variations": [
+      "persuade",
+      "persuaded",
+      "persuades",
+      "persuading"
+    ],
+    "emoji": "🗣️👉",
+    "id": "gl263"
+  },
+  "phenomenon": {
+    "word": "phenomenon",
+    "definition": "something that happens or exists and can be noticed",
+    "variations": [
+      "phenomenon",
+      "phenomena"
+    ],
+    "emoji": "🌟👀",
+    "id": "gl264"
+  },
+  "Philistines": {
+    "word": "Philistines",
+    "definition": "an ancient people often mentioned in the Bible as neighbours or enemies of Israel",
+    "variations": [
+      "Philistine",
+      "Philistines"
+    ],
+    "emoji": "🏺⚔️",
+    "id": "gl265"
+  },
+  "physician": {
+    "word": "physician",
+    "definition": "a doctor",
+    "variations": [
+      "physician",
+      "physicians"
+    ],
+    "emoji": "🩺👨‍⚕️",
+    "id": "gl266"
+  },
+  "physiological": {
+    "word": "physiological",
+    "definition": "related to how the body works.",
+    "variations": [
+      "physiological"
+    ],
+    "emoji": "🫀🧍",
+    "id": "gl267"
+  },
+  "pilgrimage": {
+    "word": "pilgrimage",
+    "definition": "a journey to a holy or special religious place",
+    "variations": [
+      "pilgrimage",
+      "pilgrimages"
+    ],
+    "emoji": "🚶⛪",
+    "id": "gl268"
+  },
+  "pillar": {
+    "word": "pillar",
+    "definition": "a tall stone or post set up as a sign or support",
+    "variations": [
+      "pillar",
+      "pillars"
+    ],
+    "emoji": "🪨📍",
+    "id": "gl269"
+  },
+  "pit": {
+    "word": "pit",
+    "definition": "a deep hole in the ground",
+    "variations": [
+      "pit",
+      "pits"
+    ],
+    "emoji": "🕳️",
+    "id": "gl270"
+  },
+  "plagues": {
+    "word": "plagues",
+    "definition": "serious disasters or diseases sent as punishment or causing great suffering.",
+    "variations": [
+      "plague",
+      "plagues"
+    ],
+    "emoji": "🦠⚠️",
+    "id": "gl271"
+  },
+  "polyandry": {
+    "word": "polyandry",
+    "definition": "a form of marriage in which one woman is married to several husbands.",
+    "variations": [
+      "polyandry"
+    ],
+    "emoji": "👩💍👨",
+    "id": "gl272"
+  },
+  "polygamy": {
+    "word": "polygamy",
+    "definition": "the practice of being married to more than one spouse at the same time.",
+    "variations": [
+      "polygamy",
+      "polygamous"
+    ],
+    "emoji": "💍👨‍👩‍👧",
+    "id": "gl273"
+  },
+  "polygyny": {
+    "word": "polygyny",
+    "definition": "a form of polygamy in which one man is married to several wives.",
+    "variations": [
+      "polygyny"
+    ],
+    "emoji": "👨💍👩",
+    "id": "gl274"
+  },
+  "portrait": {
+    "word": "portrait",
+    "definition": "a picture or description of a person or place",
+    "variations": [
+      "portrait",
+      "portraits"
+    ],
+    "emoji": "🖼️🎨",
+    "id": "gl275"
+  },
+  "portrayal": {
+    "word": "portrayal",
+    "definition": "a picture, description, or representation of something.",
+    "variations": [
+      "portrayal",
+      "portrayals",
+      "portray"
+    ],
+    "emoji": "🖼️📝",
+    "id": "gl276"
+  },
+  "possess": {
+    "word": "possess",
+    "definition": "to own or have something",
+    "variations": [
+      "possess",
+      "possessed",
+      "possesses",
+      "possessing",
+      "possession",
+      "possessions"
+    ],
+    "emoji": "✋📦",
+    "id": "gl277"
+  },
+  "possessions": {
+    "word": "possessions",
+    "definition": "things that a person owns",
+    "variations": [
+      "possession",
+      "possessions"
+    ],
+    "emoji": "📦🏠",
+    "id": "gl278"
+  },
+  "posterity": {
+    "word": "posterity",
+    "definition": "the future children and family line of a person",
+    "variations": [
+      "posterity"
+    ],
+    "emoji": "👶🌳",
+    "id": "gl279"
+  },
+  "precious": {
+    "word": "precious",
+    "definition": "very valuable or important",
+    "variations": [
+      "precious"
+    ],
+    "emoji": "💎✨",
+    "id": "gl280"
+  },
+  "preserve": {
+    "word": "preserve",
+    "definition": "to protect something and keep it safe from harm",
+    "variations": [
+      "preserve",
+      "preserves",
+      "preserved",
+      "preserving"
+    ],
+    "emoji": "🛡️🌿",
+    "id": "gl281"
+  },
+  "pride": {
+    "word": "pride",
+    "definition": "a feeling of being too important or too pleased with oneself",
+    "variations": [
+      "proud"
+    ],
+    "emoji": "😌⬆️",
+    "id": "gl282"
+  },
+  "priest": {
+    "word": "priest",
+    "definition": "a religious leader who serves God and guides people in worship",
+    "variations": [
+      "priest",
+      "priests",
+      "priestly"
+    ],
+    "emoji": "⛪🙏",
+    "id": "gl283"
+  },
+  "principles": {
+    "word": "principles",
+    "definition": "basic rules or important ideas that guide behaviour or study",
+    "variations": [
+      "principle"
+    ],
+    "emoji": "📏🧠",
+    "id": "gl284"
+  },
+  "procreation": {
+    "word": "procreation",
+    "definition": "the act of producing children or offspring",
+    "variations": [
+      "procreate",
+      "procreated",
+      "procreating"
+    ],
+    "emoji": "👨‍👩‍👧🌱",
+    "id": "gl285"
+  },
+  "produce": {
+    "word": "produce",
+    "definition": "food or crops grown from the land",
+    "variations": [
+      "produce"
+    ],
+    "emoji": "🌽🥕",
+    "id": "gl286"
+  },
+  "prophet": {
+    "word": "prophet",
+    "definition": "a person chosen by God to speak his message to people",
+    "variations": [
+      "prophet",
+      "prophets",
+      "prophetic",
+      "prophecies"
+    ],
+    "emoji": "📣🙏",
+    "id": "gl287"
+  },
+  "prosperous": {
+    "word": "prosperous",
+    "definition": "successful and having plenty of money, food, or other good things",
+    "variations": [
+      "prosperous"
+    ],
+    "emoji": "🌾💰",
+    "id": "gl288"
+  },
+  "proverb": {
+    "word": "proverb",
+    "definition": "a short wise saying that teaches a lesson",
+    "variations": [
+      "proverb",
+      "proverbs"
+    ],
+    "emoji": "💡🗣️",
+    "id": "gl289"
+  },
+  "providence": {
+    "word": "providence",
+    "definition": "God’s care and guidance in people’s lives",
+    "variations": [
+      "providence"
+    ],
+    "emoji": "🙏✨",
+    "id": "gl290"
+  },
+  "provision": {
+    "word": "provision",
+    "definition": "supplies or things needed for a journey or daily life",
+    "variations": [
+      "provision",
+      "provisions"
+    ],
+    "emoji": "🎒🍞",
+    "id": "gl291"
+  },
+  "psychoactive": {
+    "word": "psychoactive",
+    "definition": "able to affect the mind, feelings, or behaviour.",
+    "variations": [
+      "psychoactive"
+    ],
+    "emoji": "🧠⚠️",
+    "id": "gl292"
+  },
+  "publishing": {
+    "word": "publishing",
+    "definition": "preparing and producing books, newspapers, or other materials for people to read.",
+    "variations": [
+      "publish",
+      "publishing",
+      "published"
+    ],
+    "emoji": "📚🖨️",
+    "id": "gl293"
+  },
+  "punishment": {
+    "word": "punishment",
+    "definition": "a penalty given for doing wrong.",
+    "variations": [
+      "punishment",
+      "punishments",
+      "punish",
+      "punished",
+      "punishing"
+    ],
+    "emoji": "⚖️🚫",
+    "id": "gl294"
+  },
+  "purity": {
+    "word": "purity",
+    "definition": "the state of being clean, good, or free from wrong",
+    "variations": [
+      "purity",
+      "pure"
+    ],
+    "emoji": "🤍✨",
+    "id": "gl295"
+  },
+  "quarrel": {
+    "word": "quarrel",
+    "definition": "an angry argument or fight",
+    "variations": [
+      "quarrel",
+      "quarreled",
+      "quarrelled",
+      "quarreling",
+      "quarrelling",
+      "quarrels"
+    ],
+    "emoji": "😡🗣️",
+    "id": "gl296"
+  },
+  "rank": {
+    "word": "rank",
+    "definition": "a level or position in an order or system",
+    "variations": [
+      "rank",
+      "ranks",
+      "ranking"
+    ],
+    "emoji": "📶🎖️",
+    "id": "gl297"
+  },
+  "rape": {
+    "word": "rape",
+    "definition": "the crime of forcing someone to have sex against their will",
+    "variations": [
+      "rape",
+      "raped",
+      "rapes",
+      "rapist"
+    ],
+    "emoji": "⚠️🚫",
+    "id": "gl298"
+  },
+  "raven": {
+    "word": "raven",
+    "definition": "a large black bird.",
+    "variations": [
+      "raven",
+      "ravens"
+    ],
+    "emoji": "🐦⚫",
+    "id": "gl299"
+  },
+  "rebellion": {
+    "word": "rebellion",
+    "definition": "opposition or refusal to obey authority.",
+    "variations": [
+      "rebellion",
+      "rebel",
+      "rebellious"
+    ],
+    "emoji": "✊🚫",
+    "id": "gl300"
+  },
+  "reconciled": {
+    "word": "reconciled",
+    "definition": "became friendly again after a disagreement or conflict",
+    "variations": [
+      "reconcile",
+      "reconciled",
+      "reconciles",
+      "reconciling",
+      "reconciliation"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl301"
+  },
+  "reconciliation": {
+    "word": "reconciliation",
+    "definition": "the act of making peace again after a quarrel or conflict",
+    "variations": [
+      "reconciliation",
+      "reconciliations"
+    ],
+    "emoji": "🤝🕊️",
+    "id": "gl302"
+  },
+  "reconstruction": {
+    "word": "reconstruction",
+    "definition": "building or forming something again after damage or trouble",
+    "variations": [
+      "reconstruction"
+    ],
+    "emoji": "🧱🔨",
+    "id": "gl303"
+  },
+  "redemptive": {
+    "word": "redemptive",
+    "definition": "bringing rescue, forgiveness, or a chance to be made better.",
+    "variations": [
+      "redemptive",
+      "redemption",
+      "redeem"
+    ],
+    "emoji": "✨🕊️",
+    "id": "gl304"
+  },
+  "relevance": {
+    "word": "relevance",
+    "definition": "the quality of being important or connected to the matter being discussed",
+    "variations": [
+      "relevant"
+    ],
+    "emoji": "🔗✅",
+    "id": "gl305"
+  },
+  "renewal": {
+    "word": "renewal",
+    "definition": "the act of making something new again or starting it again",
+    "variations": [
+      "renew",
+      "renewed",
+      "renewal",
+      "renewing"
+    ],
+    "emoji": "🔄✨",
+    "id": "gl306"
+  },
+  "repented": {
+    "word": "repented",
+    "definition": "felt sorry for doing wrong and decided to change",
+    "variations": [
+      "repent",
+      "repented",
+      "repenting",
+      "repents"
+    ],
+    "emoji": "🙏😔",
+    "id": "gl307"
+  },
+  "repercussions": {
+    "word": "repercussions",
+    "definition": "bad results or effects that happen after an action",
+    "variations": [
+      "repercussion",
+      "repercussions"
+    ],
+    "emoji": "⚠️↩️",
+    "id": "gl308"
+  },
+  "reproduction": {
+    "word": "reproduction",
+    "definition": "the process by which living things produce young ones",
+    "variations": [
+      "reproduce",
+      "reproducing",
+      "reproductive"
+    ],
+    "emoji": "👶🌱",
+    "id": "gl309"
+  },
+  "rescue": {
+    "word": "rescue",
+    "definition": "to save someone from danger or harm",
+    "variations": [
+      "rescue",
+      "rescued",
+      "rescues",
+      "rescuing"
+    ],
+    "emoji": "🛟🙌",
+    "id": "gl310"
+  },
+  "residing": {
+    "word": "residing",
+    "definition": "living in a place for some time",
+    "variations": [
+      "reside",
+      "resided",
+      "resides",
+      "residing"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl311"
+  },
+  "responsibility": {
+    "word": "responsibility",
+    "definition": "a duty or job that a person is expected to do",
+    "variations": [
+      "responsibility",
+      "responsibilities"
+    ],
+    "emoji": "📌🤝",
+    "id": "gl312"
+  },
+  "responsive": {
+    "word": "responsive",
+    "definition": "reacting quickly and appropriately to something",
+    "variations": [
+      "responsive",
+      "respond"
+    ],
+    "emoji": "🔄👂",
+    "id": "gl313"
+  },
+  "restore": {
+    "word": "restore",
+    "definition": "to bring back to an earlier or proper condition",
+    "variations": [
+      "restore",
+      "restored",
+      "restores",
+      "restoring"
+    ],
+    "emoji": "↩️✨",
+    "id": "gl314"
+  },
+  "resurrection": {
+    "word": "resurrection",
+    "definition": "coming back to life after death",
+    "variations": [
+      "resurrection",
+      "resurrect"
+    ],
+    "emoji": "✝️🌅",
+    "id": "gl315"
+  },
+  "reveal": {
+    "word": "reveal",
+    "definition": "to make something known or clear",
+    "variations": [
+      "reveals",
+      "revealed",
+      "revealing",
+      "revelation"
+    ],
+    "emoji": "💡📖",
+    "id": "gl316"
+  },
+  "revenge": {
+    "word": "revenge",
+    "definition": "harm done to someone because they harmed you first",
+    "variations": [
+      "revenge"
+    ],
+    "emoji": "😠⚔️",
+    "id": "gl317"
+  },
+  "righteous": {
+    "word": "righteous",
+    "definition": "morally right and pleasing before God.",
+    "variations": [
+      "righteous",
+      "righteously",
+      "righteousness"
+    ],
+    "emoji": "✨🙏",
+    "id": "gl318"
+  },
+  "righteousness": {
+    "word": "righteousness",
+    "definition": "being morally right and pleasing to God",
+    "variations": [
+      "righteousness",
+      "righteous"
+    ],
+    "emoji": "⚖️✨",
+    "id": "gl319"
+  },
+  "rivalry": {
+    "word": "rivalry",
+    "definition": "a situation where people compete strongly against each other",
+    "variations": [
+      "rivalry",
+      "rivalries"
+    ],
+    "emoji": "⚔️😠",
+    "id": "gl320"
+  },
+  "sacred": {
+    "word": "sacred",
+    "definition": "holy and connected with God or religion",
+    "variations": [
+      "sacred"
+    ],
+    "emoji": "🙏✨",
+    "id": "gl321"
+  },
+  "sacrifice": {
+    "word": "sacrifice",
+    "definition": "something valuable given up or offered, especially to God.",
+    "variations": [
+      "sacrifice",
+      "sacrifices",
+      "sacrificed",
+      "sacrificing"
+    ],
+    "emoji": "🙏🐑",
+    "id": "gl322"
+  },
+  "safeguard": {
+    "word": "safeguard",
+    "definition": "to protect something from harm or loss",
+    "variations": [
+      "safeguard",
+      "safeguards",
+      "safeguarded",
+      "safeguarding"
+    ],
+    "emoji": "🛡️🌍",
+    "id": "gl323"
+  },
+  "salvation": {
+    "word": "salvation",
+    "definition": "being saved by God from sin and its effects",
+    "variations": [
+      "save",
+      "saved",
+      "saving"
+    ],
+    "emoji": "🙏✨",
+    "id": "gl324"
+  },
+  "scripture": {
+    "word": "scripture",
+    "definition": "the holy writings of the Bible",
+    "variations": [
+      "scripture",
+      "scriptures"
+    ],
+    "emoji": "📖🙏",
+    "id": "gl325"
+  },
+  "scriptures": {
+    "word": "scriptures",
+    "definition": "holy writings that are accepted as the word of God",
+    "variations": [
+      "scripture"
+    ],
+    "emoji": "📜📖",
+    "id": "gl326"
+  },
+  "scroll": {
+    "word": "scroll",
+    "definition": "a rolled piece of writing material used in ancient times as a book",
+    "variations": [
+      "scroll",
+      "scrolls"
+    ],
+    "emoji": "📜🧾",
+    "id": "gl327"
+  },
+  "seal": {
+    "word": "seal",
+    "definition": "a mark used to show that something is official or approved",
+    "variations": [
+      "seal",
+      "seals"
+    ],
+    "emoji": "📜✅",
+    "id": "gl328"
+  },
+  "secretly": {
+    "word": "secretly",
+    "definition": "in a hidden way, without other people knowing",
+    "variations": [
+      "secretly"
+    ],
+    "emoji": "🤫👀",
+    "id": "gl329"
+  },
+  "selfishness": {
+    "word": "selfishness",
+    "definition": "caring only about yourself and not about others.",
+    "variations": [
+      "selfishness",
+      "selfish"
+    ],
+    "emoji": "🙋💔",
+    "id": "gl330"
+  },
+  "Septuagint": {
+    "word": "Septuagint",
+    "definition": "the Greek translation of the Old Testament",
+    "variations": [
+      "Septuagint"
+    ],
+    "emoji": "🇬🇷📜",
+    "id": "gl331"
+  },
+  "sermon": {
+    "word": "sermon",
+    "definition": "a religious talk that teaches people about God",
+    "variations": [
+      "sermon",
+      "sermons"
+    ],
+    "emoji": "⛪🗣️",
+    "id": "gl332"
+  },
+  "serpent": {
+    "word": "serpent",
+    "definition": "a snake; in this passage it also represents the devil.",
+    "variations": [
+      "serpent",
+      "serpents"
+    ],
+    "emoji": "🐍⚠️",
+    "id": "gl333"
+  },
+  "severe": {
+    "word": "severe",
+    "definition": "very serious or very strong",
+    "variations": [
+      "severe"
+    ],
+    "emoji": "⚠️😣",
+    "id": "gl334"
+  },
+  "sheaves": {
+    "word": "sheaves",
+    "definition": "bundles of cut grain tied together",
+    "variations": [
+      "sheaf",
+      "sheaves"
+    ],
+    "emoji": "🌾束",
+    "id": "gl335"
+  },
+  "shed": {
+    "word": "shed",
+    "definition": "to let something fall or flow out, especially blood or tears",
+    "variations": [
+      "shed",
+      "shedding",
+      "sheds"
+    ],
+    "emoji": "🩸😢",
+    "id": "gl336"
+  },
+  "shield": {
+    "word": "shield",
+    "definition": "something that protects a person from danger or harm",
+    "variations": [
+      "shield",
+      "shields",
+      "shielded",
+      "shielding"
+    ],
+    "emoji": "🛡️",
+    "id": "gl337"
+  },
+  "signet ring": {
+    "word": "signet ring",
+    "definition": "a ring with a special mark or seal used to show authority",
+    "variations": [
+      "signet ring",
+      "signet rings"
+    ],
+    "emoji": "💍📜",
+    "id": "gl338"
+  },
+  "sin": {
+    "word": "sin",
+    "definition": "disobedience against God or doing what is wrong in God’s sight",
+    "variations": [
+      "sin",
+      "sins",
+      "sinful"
+    ],
+    "emoji": "❌⚠️",
+    "id": "gl339"
+  },
+  "sinfulness": {
+    "word": "sinfulness",
+    "definition": "the state of being full of sin or doing wrong against God",
+    "variations": [
+      "sinful",
+      "sinfulness"
+    ],
+    "emoji": "❌⚠️",
+    "id": "gl340"
+  },
+  "slave": {
+    "word": "slave",
+    "definition": "a person forced to work for another person without freedom",
+    "variations": [
+      "slave",
+      "slaves"
+    ],
+    "emoji": "⛓️😞",
+    "id": "gl341"
+  },
+  "solemn": {
+    "word": "solemn",
+    "definition": "serious and formal.",
+    "variations": [
+      "solemn",
+      "solemnly"
+    ],
+    "emoji": "📜😐",
+    "id": "gl342"
+  },
+  "sorrow": {
+    "word": "sorrow",
+    "definition": "a strong feeling of sadness",
+    "variations": [
+      "sorrow",
+      "sorrows"
+    ],
+    "emoji": "💔😞",
+    "id": "gl343"
+  },
+  "spare": {
+    "word": "spare",
+    "definition": "to stop someone from suffering harm or death",
+    "variations": [
+      "spare",
+      "spared",
+      "spares",
+      "sparing"
+    ],
+    "emoji": "🫶🛡️",
+    "id": "gl344"
+  },
+  "spies": {
+    "word": "spies",
+    "definition": "people who secretly collect information about others",
+    "variations": [
+      "spy",
+      "spies"
+    ],
+    "emoji": "🕵️👀",
+    "id": "gl345"
+  },
+  "spiritual": {
+    "word": "spiritual",
+    "definition": "relating to the spirit, God, or religious life",
+    "variations": [
+      "spiritual",
+      "spiritually"
+    ],
+    "emoji": "🕊️🙏",
+    "id": "gl346"
+  },
+  "stew": {
+    "word": "stew",
+    "definition": "food made by cooking meat or vegetables slowly in liquid",
+    "variations": [
+      "stew",
+      "stews"
+    ],
+    "emoji": "🥘🍲",
+    "id": "gl347"
+  },
+  "steward": {
+    "word": "steward",
+    "definition": "a person who manages another person’s property or household",
+    "variations": [
+      "steward",
+      "stewards"
+    ],
+    "emoji": "🏠📋",
+    "id": "gl348"
+  },
+  "stewards": {
+    "word": "stewards",
+    "definition": "people trusted to take care of something that belongs to another",
+    "variations": [
+      "steward",
+      "stewards",
+      "stewardship"
+    ],
+    "emoji": "🌍🤲",
+    "id": "gl349"
+  },
+  "stimulants": {
+    "word": "stimulants",
+    "definition": "drugs that make the body or mind work faster or feel more active.",
+    "variations": [
+      "stimulant",
+      "stimulants"
+    ],
+    "emoji": "⚡💊",
+    "id": "gl350"
+  },
+  "strife": {
+    "word": "strife",
+    "definition": "angry disagreement or conflict.",
+    "variations": [
+      "strife"
+    ],
+    "emoji": "😠⚔️",
+    "id": "gl351"
+  },
+  "structure": {
+    "word": "structure",
+    "definition": "something that has been built, such as a building or tower.",
+    "variations": [
+      "structure",
+      "structures"
+    ],
+    "emoji": "🏗️🧱",
+    "id": "gl352"
+  },
+  "structured": {
+    "word": "structured",
+    "definition": "arranged in an organised way",
+    "variations": [
+      "structured",
+      "structure"
+    ],
+    "emoji": "🏗️📐",
+    "id": "gl353"
+  },
+  "subdue": {
+    "word": "subdue",
+    "definition": "to bring something under control",
+    "variations": [
+      "subdue",
+      "subdues",
+      "subdued",
+      "subduing"
+    ],
+    "emoji": "✋🛠️",
+    "id": "gl354"
+  },
+  "subject": {
+    "word": "subject",
+    "definition": "an area of study taught in school",
+    "variations": [
+      "subjects"
+    ],
+    "emoji": "🏫📘",
+    "id": "gl355"
+  },
+  "submissive": {
+    "word": "submissive",
+    "definition": "willing to obey or yield to another person’s authority.",
+    "variations": [
+      "submissive",
+      "submit",
+      "submitted",
+      "submission"
+    ],
+    "emoji": "🙇📘",
+    "id": "gl356"
+  },
+  "sulfur": {
+    "word": "sulfur",
+    "definition": "a yellow substance linked in the Bible with burning and destruction",
+    "variations": [
+      "sulfur"
+    ],
+    "emoji": "🔥🟡",
+    "id": "gl357"
+  },
+  "sustainability": {
+    "word": "sustainability",
+    "definition": "the ability to continue well for a long time",
+    "variations": [
+      "sustainability",
+      "sustainable"
+    ],
+    "emoji": "♻️⏳",
+    "id": "gl358"
+  },
+  "sustainable development": {
+    "word": "sustainable development",
+    "definition": "development that meets present needs without harming the future.",
+    "variations": [
+      "sustainable development"
+    ],
+    "emoji": "🌱🏘️♻️",
+    "id": "gl359"
+  },
+  "swore": {
+    "word": "swore",
+    "definition": "made a serious promise",
+    "variations": [
+      "swear",
+      "swore",
+      "sworn",
+      "swearing"
+    ],
+    "emoji": "✋📜",
+    "id": "gl360"
+  },
+  "symbolises": {
+    "word": "symbolises",
+    "definition": "stands for or represents an idea.",
+    "variations": [
+      "symbolise",
+      "symbolises",
+      "symbolised",
+      "symbolising"
+    ],
+    "emoji": "🔣🕊️",
+    "id": "gl361"
+  },
+  "temptation": {
+    "word": "temptation",
+    "definition": "a strong desire to do something wrong or unwise.",
+    "variations": [
+      "temptation",
+      "temptations",
+      "tempt",
+      "tempted",
+      "tempting"
+    ],
+    "emoji": "🍎⚠️",
+    "id": "gl362"
+  },
+  "tend": {
+    "word": "tend",
+    "definition": "to take care of something or someone",
+    "variations": [
+      "tend",
+      "tended",
+      "tending",
+      "tends"
+    ],
+    "emoji": "🤲🐑",
+    "id": "gl363"
+  },
+  "Testament": {
+    "word": "Testament",
+    "definition": "one of the two main parts of the Bible, the Old Testament or the New Testament",
+    "variations": [
+      "Testaments"
+    ],
+    "emoji": "📘📚",
+    "id": "gl364"
+  },
+  "tomb": {
+    "word": "tomb",
+    "definition": "a place where a dead person is buried",
+    "variations": [
+      "tomb",
+      "tombs"
+    ],
+    "emoji": "🪦⚰️",
+    "id": "gl365"
+  },
+  "Torah": {
+    "word": "Torah",
+    "definition": "the law or basic teachings in the first books of the Bible for the Jewish faith",
+    "variations": [
+      "Torah"
+    ],
+    "emoji": "📜✡️",
+    "id": "gl366"
+  },
+  "toxic": {
+    "word": "toxic",
+    "definition": "poisonous or harmful to the body.",
+    "variations": [
+      "toxic",
+      "toxicity"
+    ],
+    "emoji": "☠️⚠️",
+    "id": "gl367"
+  },
+  "transgression": {
+    "word": "transgression",
+    "definition": "an act of going beyond or breaking God’s law or a moral rule.",
+    "variations": [
+      "transgression",
+      "transgressions",
+      "transgress",
+      "transgressed"
+    ],
+    "emoji": "🚫📜",
+    "id": "gl368"
+  },
+  "Tree of life": {
+    "word": "Tree of life",
+    "definition": "a special tree in the Garden of Eden associated with life",
+    "variations": [
+      "Tree of life"
+    ],
+    "emoji": "🌳✨",
+    "id": "gl369"
+  },
+  "tribes": {
+    "word": "tribes",
+    "definition": "groups of people connected by family, culture, or ancestry",
+    "variations": [
+      "tribe",
+      "tribes",
+      "tribal"
+    ],
+    "emoji": "👥🏕️",
+    "id": "gl370"
+  },
+  "trustworthiness": {
+    "word": "trustworthiness",
+    "definition": "the quality of being honest and reliable",
+    "variations": [
+      "trustworthiness"
+    ],
+    "emoji": "🤝✅",
+    "id": "gl371"
+  },
+  "twin": {
+    "word": "twin",
+    "definition": "one of two children born at the same birth",
+    "variations": [
+      "twin",
+      "twins"
+    ],
+    "emoji": "👶👶",
+    "id": "gl372"
+  },
+  "unconditional": {
+    "word": "unconditional",
+    "definition": "without limits or special conditions",
+    "variations": [
+      "unconditional",
+      "unconditionally"
+    ],
+    "emoji": "❤️🤗",
+    "id": "gl373"
+  },
+  "ungodly": {
+    "word": "ungodly",
+    "definition": "not respecting God or not living in a godly way.",
+    "variations": [
+      "ungodly"
+    ],
+    "emoji": "❌😈",
+    "id": "gl374"
+  },
+  "union": {
+    "word": "union",
+    "definition": "the joining together of people or things",
+    "variations": [
+      "union",
+      "unions"
+    ],
+    "emoji": "🤝❤️",
+    "id": "gl375"
+  },
+  "unity": {
+    "word": "unity",
+    "definition": "being joined together in peace, agreement, or purpose.",
+    "variations": [
+      "unity",
+      "unite",
+      "united",
+      "uniting"
+    ],
+    "emoji": "🤝🕊️",
+    "id": "gl376"
+  },
+  "universe": {
+    "word": "universe",
+    "definition": "everything that exists, including the earth, stars, and space",
+    "variations": [
+      "universe"
+    ],
+    "emoji": "🌌🌍",
+    "id": "gl377"
+  },
+  "venison": {
+    "word": "venison",
+    "definition": "meat from a deer",
+    "variations": [
+      "venison"
+    ],
+    "emoji": "🦌🍖",
+    "id": "gl378"
+  },
+  "victim": {
+    "word": "victim",
+    "definition": "a person who has been harmed, hurt, or attacked",
+    "variations": [
+      "victim",
+      "victims"
+    ],
+    "emoji": "😢🆘",
+    "id": "gl379"
+  },
+  "vineyard": {
+    "word": "vineyard",
+    "definition": "a place where grapes are grown.",
+    "variations": [
+      "vineyard",
+      "vineyards"
+    ],
+    "emoji": "🍇🌿",
+    "id": "gl380"
+  },
+  "violation": {
+    "word": "violation",
+    "definition": "the act of breaking a rule, law, or command.",
+    "variations": [
+      "violation",
+      "violations",
+      "violate",
+      "violated",
+      "violating"
+    ],
+    "emoji": "⚠️📜",
+    "id": "gl381"
+  },
+  "virgins": {
+    "word": "virgins",
+    "definition": "people who have not had sexual relations",
+    "variations": [
+      "virgin",
+      "virgins"
+    ],
+    "emoji": "👧🔒",
+    "id": "gl382"
+  },
+  "visibility": {
+    "word": "visibility",
+    "definition": "how clearly something can be seen",
+    "variations": [
+      "visibility",
+      "visible"
+    ],
+    "emoji": "👀🌤️",
+    "id": "gl383"
+  },
+  "vision": {
+    "word": "vision",
+    "definition": "a special sight or message seen in a dream-like way, often from God",
+    "variations": [
+      "vision",
+      "visions"
+    ],
+    "emoji": "👁️🌟",
+    "id": "gl384"
+  },
+  "Vulgate": {
+    "word": "Vulgate",
+    "definition": "the Latin version of the Bible",
+    "variations": [
+      "Vulgate"
+    ],
+    "emoji": "🇻🇦📖",
+    "id": "gl385"
+  },
+  "welfare": {
+    "word": "welfare",
+    "definition": "health, safety, and general wellbeing",
+    "variations": [
+      "welfare"
+    ],
+    "emoji": "🏥😊",
+    "id": "gl386"
+  },
+  "wellbeing": {
+    "word": "wellbeing",
+    "definition": "the state of being healthy, safe, and comfortable",
+    "variations": [
+      "wellbeing"
+    ],
+    "emoji": "😊🌿",
+    "id": "gl387"
+  },
+  "wells": {
+    "word": "wells",
+    "definition": "deep holes dug in the ground to get water",
+    "variations": [
+      "well",
+      "wells"
+    ],
+    "emoji": "💧🕳️",
+    "id": "gl388"
+  },
+  "wickedness": {
+    "word": "wickedness",
+    "definition": "very bad or evil behaviour.",
+    "variations": [
+      "wickedness",
+      "wicked"
+    ],
+    "emoji": "😈⚠️",
+    "id": "gl389"
+  },
+  "will power": {
+    "word": "will power",
+    "definition": "the ability to control your thoughts, feelings, and actions",
+    "variations": [
+      "will power"
+    ],
+    "emoji": "💪🧠",
+    "id": "gl390"
+  },
+  "womb": {
+    "word": "womb",
+    "definition": "the place inside a woman’s body where a baby grows before birth",
+    "variations": [
+      "womb",
+      "wombs"
+    ],
+    "emoji": "🤰🫄",
+    "id": "gl391"
+  },
+  "wrestled": {
+    "word": "wrestled",
+    "definition": "fought closely by holding and struggling with another person",
+    "variations": [
+      "wrestle",
+      "wrestled",
+      "wrestles",
+      "wrestling"
+    ],
+    "emoji": "🤼💪",
+    "id": "gl392"
+  }
+}
