@@ -26,6 +26,7 @@
               adlcp:scormtype="sco"
               href="index.html">
       <file href="index.html"/>
+      <file href="pg001_sec001.html"/>
       <file href="pg002_sec001.html"/>
       <file href="pg003_sec001.html"/>
       <file href="pg004_sec001.html"/>
@@ -105,6 +106,9 @@
       <file href="pg078_sec001.html"/>
       <file href="pg079_sec001.html"/>
       <file href="pg080_sec001.html"/>
+      <file href="pg081_sec001.html"/>
+      <file href="images/pg000_im001.png"/>
+      <file href="images/pg081_im001.png"/>
     </resource>
   </resources>
 
